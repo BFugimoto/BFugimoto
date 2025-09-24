@@ -9,12 +9,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BFugimoto/BFugimoto/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="8" />
